@@ -2,7 +2,7 @@ name: adgydeflutterplugins
 description: A new Flutter plugin.
 version: 0.0.5
 author: AdGyde Solutions Private Limited
-homepage: https://github.com/AdGyde/adgyde_flutter_plugin
+homepage: https://github.com/AdGyde/adgydeflutterplugin
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
